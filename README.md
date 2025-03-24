@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Ygor Luckas🖐️
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygorluckas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/sujeitoprogramador](https://www.instagram.com/ygor.dev/))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ygorluckas/)
+
 
 
 ## Tecnologias que eu uso no meu dia
